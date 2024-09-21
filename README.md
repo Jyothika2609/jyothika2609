@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyothika2609" alt="jyothika2609" /></a> </p>
 
-- 🌱 I’m currently learning **C,JAVA**
+- 🌱 I’m currently learning **Front End Technologies**
 
 - 💬 Ask me about **C**
 
